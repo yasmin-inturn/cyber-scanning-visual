@@ -1,0 +1,12 @@
+# Ambiente e IDE
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Modelos do MediaPipe (baixe com o comando do README)
+*.task
+
+# Screenshots salvos com a tecla S
+captures/
